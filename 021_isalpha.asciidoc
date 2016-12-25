@@ -15,7 +15,7 @@ The +isalpha+ function tests +c+ to determine if it is an alphabetic character (
 
 RETURN VALUE::
 
-The +isalpha+ function returns a value of 1 if +c+ is an alphabetic character and a value of 0 if it is
+The +isalpha+ function returns a non-zero (true) value if +c+ is an alphabetic character and 0 if it is
 not.
 
 
